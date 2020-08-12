@@ -1,3 +1,5 @@
+### AS OF 8/12/2020 THIS PROGRAM IS NOT FULLY FUNCTIONAL
+
 # Libraries - matplotlib for plotting, pandas for data manipulation and datetime library for supplying classes to manipulate dates and times.
 import streamlit as st
 import matplotlib.pyplot as plt
